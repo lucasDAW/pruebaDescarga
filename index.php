@@ -1,5 +1,6 @@
 <?php
-echo "<h1>hola Mundo</h1>";
+// api/index.php
+phpinfo();
 
 
 ?>
